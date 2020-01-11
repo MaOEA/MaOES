@@ -11,3 +11,5 @@ Copyright (c) 2018-2020 MaOES Group. You are free to use the Programe for resear
 
 All publications which use this Programe or any code in the Programe should acknowledge the use of "MaOES" and reference "Kai Zhang, Zhiwei Xu, Shengli Xie and Gary G. Yen, Evolution Strategy Based Many-Objective Evolutionary Algorithm Through Vector Equilibrium,
 IEEE Transactions on Cybernetics, 2019, DOI:10.1109/TCYB.2019.2960039"
+
+https://ieeexplore.ieee.org/document/8955947
